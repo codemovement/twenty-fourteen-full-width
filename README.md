@@ -1,8 +1,6 @@
 # Twenty Fourteen Child Theme
 
-Twenty Fourteen Child Theme is a responsive, two-column, full width theme based on the [WordPress theme](https://wordpress.org/themes/twentyfourteen).
-
-Screenshot:
+Twenty Fourteen Child Theme is a responsive, two-column, **full width** theme based on the [WordPress theme](https://wordpress.org/themes/twentyfourteen) as parent theme lacked the feature of full width which you can have throught this child theme.
 
 ![Twenty Fourteen Child Theme](screenshot.png "Twenty Fourteen Child Theme Full Width")
 
@@ -20,7 +18,7 @@ Here, you will see all the themes you have currently installed in your applicati
 
 On this page there are two ways to add a new theme. You can either use the search field which will return results from the WordPress.org theme directory or you can upload a theme from your local hard drive. In this tutorial we will show you how to add themes in upload way only.
 
-## Upload a theme you have already downloaded from [here](##)
+## Upload a theme you have already downloaded from [here](https://github.com/codemovement/twenty-fourteen-full-width/archive/master.zip)
 
 You can simply upload it from the Themes -> Install Themes section in WordPress. To do this click on the Upload link at the top of the page.
 
