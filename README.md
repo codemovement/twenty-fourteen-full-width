@@ -1,12 +1,12 @@
 # Twenty Fourteen Child Theme
 
-Twenty Fourteen Child Theme is a responsive, two-column, **full width** theme based on the [WordPress theme](https://wordpress.org/themes/twentyfourteen) as parent theme lacking feature of full width which you can achieve throught this child theme.
+Twenty Fourteen Child Theme is a responsive, two-column, **full width** theme based on the [WordPress theme](https://wordpress.org/themes/twentyfourteen) as parent theme lacking feature of full width which you can achieve through this child theme.
 
 ![Twenty Fourteen Child Theme](screenshot.png "Twenty Fourteen Child Theme Full Width")
 
 ## Features
 
-- [TwentyFourteen Accordion Menu](https://github.com/ataylorme/TwentyFourteen-accordion-menu) 
+- Sub Menu Accordion functionality to the primary menu in the WordPress TwentyFourteen through this child theme: [TwentyFourteen Accordion Menu](https://github.com/ataylorme/TwentyFourteen-accordion-menu) 
 
 # Installation
 

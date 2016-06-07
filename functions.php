@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Masood.Usama
- * Date: 6/7/2016
- * Time: 8:14 PM
+ * Twenty Fourteen Child Functions
  */
 function twenty_fourteen_child_enqueue(){
 	// enqueue parent stylesheet.
@@ -52,6 +49,3 @@ if ( ! function_exists( 'tfc_customize_name_panel_section' ) ) {
 		) );
 	}
 }
-
-
-
